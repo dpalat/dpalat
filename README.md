@@ -2,7 +2,7 @@
 
 I am Diego Palat and I'm a computer programmer based in Barcelona.
 
-I’m currently working as a backend developer for [SCRM Lidl International Hub](https://www.linkedin.com/company/scrmlidlinternationalhub/)  
+I’m currently working as a backend developer for [Scopely](https://www.scopely.com/)  
 
 - 📫 How to reach me:
   - Twitter: [@diegotePalat](https://www.twitter.com/diegotepalat)
